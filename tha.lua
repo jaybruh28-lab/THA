@@ -1,4 +1,4 @@
-local library = loadstring(game:HttpGet("https://github.com/GoHamza/AppleLibrary/blob/main/main.lua?raw=true"))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/jaybruh28-lab/THA/refs/heads/main/library.lua"))()
 local window = library:init("Effort Inventory Tracker", true, Enum.KeyCode.RightShift, true)
 
 -- [[ GLOBAL SEARCH VARIABLE ]] --
